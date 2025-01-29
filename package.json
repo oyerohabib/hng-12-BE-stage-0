@@ -15,6 +15,10 @@
     "nodejs"
   ],
   "author": "Oyero Habib",
+  "slackUsername": "@oyerohabib",
+  "backend": true,
+  "age": 20,
+  "bio": "I am a backend developer and I love to build things with code.",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
